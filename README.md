@@ -1,2 +1,2 @@
 # flentas
-Main.java = src
+src = Main.java
